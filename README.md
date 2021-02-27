@@ -6,6 +6,8 @@
  consisted of text transcriptions of the State of the Union Addresses, given by Presidents to
  Congress from 1790 (George Washington) to 2020 (Donald Trump).
 
+*I would suggest going through the Report to get the links to download the data, understand the code, the assignment and overall functino of each file* 
+
  This project computed:
  1. Average use of every word
  2. Maximum and Minimum word count
